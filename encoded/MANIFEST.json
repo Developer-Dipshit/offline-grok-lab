@@ -1,0 +1,38 @@
+[
+  {
+    "path": "bin/local-engine-bin",
+    "prefix": "bin__local-engine-bin",
+    "parts": 4,
+    "raw": 9255
+  },
+  {
+    "path": "bin/gmenu-chat",
+    "prefix": "bin__gmenu-chat",
+    "parts": 7,
+    "raw": 16475
+  },
+  {
+    "path": "local-engine/lib/grok_local_agent.py",
+    "prefix": "local-engine__lib__grok_local_agent.py",
+    "parts": 12,
+    "raw": 30695
+  },
+  {
+    "path": "bin/device-agent",
+    "prefix": "bin__device-agent",
+    "parts": 5,
+    "raw": 11542
+  },
+  {
+    "path": "bin/gmenu",
+    "prefix": "bin__gmenu",
+    "parts": 5,
+    "raw": 12025
+  },
+  {
+    "path": "bin/menu",
+    "prefix": "bin__menu",
+    "parts": 11,
+    "raw": 26705
+  }
+]
