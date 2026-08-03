@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# grok-local-agent — offline multi-tool Grok agent (Grok CLI task parity)
+set +e
+export LOCAL_ENGINE_ROOT="${LOCAL_ENGINE_ROOT:-/root/local-engine}"
+exec python3 "${LOCAL_ENGINE_ROOT}/lib/grok_local_agent.py" "$@"

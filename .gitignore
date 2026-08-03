@@ -1,0 +1,16 @@
+*.log
+*.pyc
+__pycache__/
+auth.json
+*.lock
+**/state/*
+!**/state/.gitkeep
+**/logs/*
+!**/logs/.gitkeep
+.env
+*.token
+secrets/
+*.gguf
+*.bin
+!bin/**
+_push/
